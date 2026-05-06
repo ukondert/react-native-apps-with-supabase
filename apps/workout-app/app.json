@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Workout App",
+    "slug": "workout-app",
+    "scheme": "workoutapp",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "platforms": [
+      "android",
+      "ios",
+      "web"
+    ],
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

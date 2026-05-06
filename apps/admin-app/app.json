@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Workout Admin",
+    "slug": "workout-admin",
+    "scheme": "workoutadmin",
+    "version": "0.1.0",
+    "orientation": "default",
+    "platforms": [
+      "web",
+      "android",
+      "ios"
+    ],
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+node_modules/
+.turbo/
+dist/
+web-build/
+.expo/
+.cache/
+coverage/
+*.log
+npm-debug.log*
+apps/*/dist/
+packages/*/dist/
+storybook-static/
+.env
